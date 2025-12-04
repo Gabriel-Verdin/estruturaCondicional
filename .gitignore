@@ -1,0 +1,68 @@
+##############################
+#        SISTEMA OPERACIONAL
+##############################
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux (arquivos temporários de editors)
+*~
+*.swp
+*.swo
+
+##############################
+#            JAVA
+##############################
+
+# Arquivos compilados
+*.class
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.cache
+
+##############################
+#           ECLIPSE
+##############################
+
+.project
+.classpath
+.settings/
+bin/
+
+##############################
+#            MAVEN
+##############################
+
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+##############################
+#           GRADLE
+##############################
+
+.gradle/
+build/
+
+##############################
+#          INTELLIJ
+##############################
+
+.idea/
+*.iml
+out/
+
+##############################
+#            VS CODE
+##############################
+
+.vscode/
